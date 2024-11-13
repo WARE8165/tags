@@ -1,0 +1,60 @@
+.body {
+    background-image: url('https://media.tenor.com/TZaIBNauQfAAAAAM/stars-galaxy.gif');
+}
+
+.titulo{
+  color: lightgray;
+  font-size: 40px;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: white;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  border-width: 3px;
+  border-style: solid;
+  border-color: grey;
+  position: relative;
+  left: 100px;
+  font-style: italic;
+  letter-spacing: 3px;
+}
+
+.linha1{
+  border: none;
+  height: 1px;
+  background-color: grey;
+  box-shadow: 1px 1px 0 white;
+  margin: 20px 0;
+}
+
+.texto1{
+  color: lightgray;
+  font-size: 20px;
+  text-shadow: 1px 1px 0 gray;
+  font-style: italic;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  position: relative;
+  right: 35px;
+}
+
+.detalhes{
+  color: lightgrey;
+  font-size: 30px;
+  background-color: #404040AB;
+  border-radius: 10px;
+  padding: 3px;
+  display: inline-block;
+  border-width: 3px;
+  border-style: solid;
+  border-color: gray;
+}
+
+.span1{
+  color: red;
+  text-shadow: 0px 0px 0;
+}
